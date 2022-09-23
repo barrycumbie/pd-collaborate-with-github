@@ -2,3 +2,5 @@
 
 - Barry is from Florence, Alabama, USA 🇺🇸
 - Ryan is from Asheville, NC, USA 
+- Wenjuan is from Ottawa, Canada 🇨🇦
+
